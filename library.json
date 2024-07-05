@@ -15,5 +15,7 @@
     },
     "version": "1.0.0",
     "frameworks": "arduino",
+    "license": "MIT",
+    "homepage": "https://mrgeckosmedia.com",
     "platforms": "*"
   }
